@@ -1,0 +1,44 @@
+body {
+    font-family: "Courier New", monospace;
+    width: 800px;
+    margin: auto;
+    text-align: center;
+    background: rgb(255,255,255);
+    background: linear-gradient(90deg, rgba(255,255,255,1) 0%, rgba(255,255,255,1) 70%, rgba(153,255,51,1) 100%);
+    
+}
+
+img {
+    margin-top: 50px;
+    margin-bottom: 50px;  
+}
+
+h1 {
+   
+    font-size: 50px;
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+.joulu {
+    
+     color: crimson;
+}
+
+.zen {
+    font-family: 'Trebuchet MS', sans-serif;
+}
+
+.cute {
+    font-family: 'Brush Script MT', cursive;
+    color: pink;
+}
+
+h2, h3 {
+    margin-top: 50px;
+}
+
+.footer {
+    margin-top: 100px;
+    font-weight: 200;
+}
